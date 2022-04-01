@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kangaroo", "Kangaroo\Kangaroo.csproj", "{BDB5B4A3-A903-4E5C-A320-AE1C89D57473}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{AC07DBD0-1BC1-4E66-A99E-0065077379D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDB5B4A3-A903-4E5C-A320-AE1C89D57473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB5B4A3-A903-4E5C-A320-AE1C89D57473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB5B4A3-A903-4E5C-A320-AE1C89D57473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB5B4A3-A903-4E5C-A320-AE1C89D57473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC07DBD0-1BC1-4E66-A99E-0065077379D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC07DBD0-1BC1-4E66-A99E-0065077379D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC07DBD0-1BC1-4E66-A99E-0065077379D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC07DBD0-1BC1-4E66-A99E-0065077379D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA8DC658-31FB-4215-90CB-A9DF54383585}
+	EndGlobalSection
+EndGlobal
